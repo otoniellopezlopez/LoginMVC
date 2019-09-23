@@ -1,0 +1,32 @@
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\bin\Debug\netcoreapp2.2\MVC LOGIN.deps.json
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\bin\Debug\netcoreapp2.2\MVC LOGIN.runtimeconfig.json
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\bin\Debug\netcoreapp2.2\MVC LOGIN.runtimeconfig.dev.json
+c:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\bin\Debug\netcoreapp2.2\MVC LOGIN.dll
+c:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\bin\Debug\netcoreapp2.2\MVC LOGIN.pdb
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\bin\Debug\netcoreapp2.2\MVC LOGIN.Views.dll
+c:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\bin\Debug\netcoreapp2.2\MVC LOGIN.Views.pdb
+c:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\obj\Debug\netcoreapp2.2\MVC LOGIN.csprojAssemblyReference.cache
+c:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\obj\Debug\netcoreapp2.2\MVC LOGIN.csproj.CoreCompileInputs.cache
+c:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\obj\Debug\netcoreapp2.2\MVC LOGIN.RazorAssemblyInfo.cache
+c:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\obj\Debug\netcoreapp2.2\MVC LOGIN.RazorAssemblyInfo.cs
+c:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\obj\Debug\netcoreapp2.2\MVC LOGIN.AssemblyInfoInputs.cache
+c:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\obj\Debug\netcoreapp2.2\MVC LOGIN.AssemblyInfo.cs
+c:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\obj\Debug\netcoreapp2.2\MVC LOGIN.TagHelpers.input.cache
+c:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\obj\Debug\netcoreapp2.2\MVC LOGIN.TagHelpers.output.cache
+c:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\obj\Debug\netcoreapp2.2\MVC LOGIN.RazorCoreGenerate.cache
+c:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+c:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\obj\Debug\netcoreapp2.2\Razor\Views\Home\Login.g.cshtml.cs
+c:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+c:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\obj\Debug\netcoreapp2.2\Razor\Views\Home\Register.g.cshtml.cs
+c:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+c:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+c:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+c:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+c:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+c:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+c:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\obj\Debug\netcoreapp2.2\MVC LOGIN.RazorTargetAssemblyInfo.cache
+c:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\obj\Debug\netcoreapp2.2\MVC LOGIN.RazorTargetAssemblyInfo.cs
+c:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\obj\Debug\netcoreapp2.2\MVC LOGIN.Views.pdb
+c:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\obj\Debug\netcoreapp2.2\MVC LOGIN.dll
+c:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\obj\Debug\netcoreapp2.2\MVC LOGIN.pdb
+C:\Users\Otoniel\Documents\11 Semestre\Metodologia Programacion\Unidad 2\MVC LOGIN\obj\Debug\netcoreapp2.2\MVC LOGIN.csproj.CopyComplete
